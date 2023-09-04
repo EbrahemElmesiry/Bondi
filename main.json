@@ -1,0 +1,28 @@
+[{
+    "allImages" : {
+        "firstImage": "work-01.jpg",
+        "secondImage": "work-02.jpg",
+        "thirdImage": "work-03.jpg",
+        "fourthImage": "work-04.jpg",
+        "fifthImage": "work-05.jpg",
+        "sixthImage": "work-06.jpg",
+        "seventhImage": "work-07.jpg",
+        "eightImage": "work-08.jpg"
+    },
+    "ImagesOne" : {
+        "firstImage": "work-01.jpg",
+        "secondImage": "work-02.jpg"
+    },
+    "ImagesTwo" : {
+        "thirdImage": "work-03.jpg",
+        "fourthImage": "work-04.jpg"
+    },
+    "ImagesThree" : {
+        "fifthImage": "work-05.jpg",
+        "sixthImage": "work-06.jpg"
+    },
+    "ImagesFour" : {
+        "seventhImage": "work-07.jpg",
+        "eightImage": "work-08.jpg"
+    }
+}]
